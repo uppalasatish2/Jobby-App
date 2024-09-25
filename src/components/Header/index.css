@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  background-color: #475569;
+  color: white;
+  width: 100vw;
+  justify-content: space-between;
+}
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+}
+.nav-link {
+  padding-right: 10px;
+}

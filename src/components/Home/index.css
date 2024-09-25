@@ -1,0 +1,13 @@
+.container12345rtr321234 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  color: white;
+  padding-left: 10px;
+}
+.btn1 {
+  width: 200px;
+}

@@ -1,0 +1,19 @@
+.container {
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #272727;
+  height: 100vh;
+}
+.inner {
+  padding: 20px;
+  background-color: #2c364c;
+  color: white;
+}
+.btn1 {
+  background-color: #4f46e5;
+  margin-top: 10px;
+  padding: 9px;
+}
